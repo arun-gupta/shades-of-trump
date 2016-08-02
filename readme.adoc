@@ -1,0 +1,14 @@
+= Shades of Donald Trump
+
+This is no-emotions and fact-based different shades of Republican presidential candidate Donald Trump. If you like Trump, add a bullet to #YesTrump. If you don't like Trump, add a bullet to #NoTrump.
+
+== #YesTrump
+
+. HERE
+
+== #NoTrump
+
+. HERE
+
+
+
