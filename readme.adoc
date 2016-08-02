@@ -2,6 +2,8 @@
 
 This is no-emotions and fact-based different shades of Republican presidential candidate Donald Trump. If you like Trump, add a bullet to #YesTrump. If you don't like Trump, add a bullet to #NoTrump.
 
+NOTE: Please do *not* include links from donaldjtrump.com. Instead include links from third-party sites.
+
 == #YesTrump
 
 . HERE
@@ -9,13 +11,14 @@ This is no-emotions and fact-based different shades of Republican presidential c
 == #NoTrump
 
 . https://www.reddit.com/r/EnoughTrumpSpam/comments/4r2yxs/a_final_response_to_the_tell_me_why_trump_is/[Donald Trump is racist]
-.. Support banning Muslims from entering the United States
-.. Ordered blacks to leave casino floor whenever him or wife arrives on property
+.. https://www.washingtonpost.com/politics/trump-pushes-expanded-ban-on-muslims-and-other-foreigners/2016/06/13/c9988e96-317d-11e6-8ff7-7b6c1998b7a0_story.html[Ban Muslims from entering the United States]
+.. http://www.newyorker.com/magazine/2015/09/07/the-death-and-life-of-atlantic-city[Ordered blacks to leave casino floor whenever him or wife arrives on property]
 .. http://www.huffingtonpost.com/entry/9-outrageous-things-donald-trump-has-said-about-latinos_us_55e483a1e4b0c818f618904b[Called Latino immigrants "`criminals`" and "`rapists`"]
 . http://www.thewrap.com/donald-trump-says-he-has-more-humility-than-you-would-think-video/[More humble than you can think]
 . http://dailycaller.com/2016/07/31/trump-gets-asked-about-chelsea-and-ivankas-friendship-youve-got-to-see-what-was-said/[Wishes Ivanka and Chelsea are not friends]
 . Global warming is created by and for the Chinese: https://twitter.com/realdonaldtrump/status/265895292191248385
 . Chinese trade: http://thefederalist.com/2016/01/20/almost-everything-donald-trump-says-about-trade-with-china-is-wrong/
+. http://www.politifact.com/truth-o-meter/article/2016/jul/26/how-trump-plans-build-wall-along-us-mexico-border/[Build a wall along US-Mexico border ]
 
 
 
