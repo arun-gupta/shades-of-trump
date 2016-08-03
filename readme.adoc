@@ -4,6 +4,8 @@ I'm an independent voter. Voted for President Barack Obama in past two elections
 
 This is no-emotions and fact-based different shades of Republican presidential candidate Donald Trump. If you like Trump, add a bullet to #YesTrump. If you don't like Trump, add a bullet to #NoTrump.
 
+Send a Pull Request if you'd like to add something to the list.
+
 NOTE: Please do *not* include links from donaldjtrump.com. Instead include links from third-party sites.
 
 == #YesTrump
